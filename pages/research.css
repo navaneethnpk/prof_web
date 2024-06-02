@@ -1,0 +1,16 @@
+.nav-links li a.active {
+    font-weight: 500;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin: 96px 256px;
+    /* border: 2px solid; */
+}
+
+main p {
+    font-size: 16px;
+}
