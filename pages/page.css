@@ -1,0 +1,28 @@
+/* ------  Stlying for all the pages ------ */
+.nav-links li a.active {
+    font-weight: 500;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 96px 256px;
+    /* border: 2px solid; */
+}
+
+main p {
+    font-size: 16px;
+}
+
+/* ------  Stlying for about.html ------ */
+
+/* ------  Stlying for research.html ------ */
+
+/* ------  Stlying for publication.html ------ */
+
+/* ------  Stlying for teaching.html ------ */
+
+/* ------  Stlying for cvitae.html ------ */
+
+/* ------  Stlying for news.html ------ */
