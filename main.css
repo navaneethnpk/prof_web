@@ -78,7 +78,7 @@ body {
   width: 100%;
 }
 
-/* ---  Nav Bar  --- */
+/* ---  Footer  --- */
 footer {
   padding: 16px;
   text-align: center; 
@@ -91,6 +91,19 @@ footer {
 footer p {
   margin: 0;
   color: #6c757d;
+}
+
+footer .social-icons {
+  margin-bottom: 4px;
+}
+footer .social-icons a {
+  margin: 0 8px;
+  display: inline-block;
+}
+footer .social-icons img {
+  width: 24px;
+  height: 24px;
+  opacity: 0.7;
 }
 
 /* ------  Stlying for index.html ------ */
