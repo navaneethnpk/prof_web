@@ -3,7 +3,8 @@
     font-weight: 500;
 }
 
-main {
+/* ------  Stlying for Under Construction ------ */
+.ongoing {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,15 +12,31 @@ main {
     /* border: 2px solid; */
 }
 
-main p {
+.ongoing p {
     font-size: 16px;
 }
 
 /* ------  Stlying for about.html ------ */
 
 /* ------  Stlying for research.html ------ */
-
-/* ------  Stlying for publication.html ------ */
+.research {
+    margin: 96px 256px;
+    /* border: 2px solid; */
+}
+.researchbox {
+    margin: 32px 0px;
+    padding: 32px;
+    border: 1px solid;
+    border-radius: 32px;
+}
+.researchbox h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+.researchbox ul {
+    font-size: 16px;
+    line-height: 1.5;
+}
 
 /* ------  Stlying for teaching.html ------ */
 
