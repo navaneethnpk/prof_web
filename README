@@ -1,0 +1,2 @@
+Bug:
+    - If a webpage has scroll bar, it will not have same width as other pages. Need to figure out a way to fix it.

@@ -11,6 +11,10 @@ body {
   min-height: 100vh;
   font-family: 'Inter', sans-serif;
 }
+html {
+    /* overflow-y: scroll; */
+    scrollbar-gutter: stable;
+}
 /* ---  Nav Bar  --- */
 .desktop-nav {
   display: flex;
@@ -81,8 +85,8 @@ body {
 /* ---  Footer  --- */
 footer {
   padding: 16px;
-  text-align: center; 
-  font-size: 14px; 
+  text-align: center;
+  font-size: 14px;
   margin-left: 256px;
   margin-right: 256px;
   margin-top: auto;

@@ -16,8 +16,6 @@
     font-size: 16px;
 }
 
-/* ------  Stlying for about.html ------ */
-
 /* ------  Stlying for research.html ------ */
 .research {
     margin: 96px 256px;
@@ -30,7 +28,7 @@
     border-radius: 32px;
 }
 .researchbox h2 {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 24px;
 }
 .researchbox ul {
