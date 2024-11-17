@@ -2,6 +2,10 @@
 .nav-links li a.active {
     font-weight: 500;
 }
+.mainbox {
+    margin: 96px 256px;
+    border: 2px solid #fed9b7;
+}
 
 /* ------  Stlying for Under Construction ------ */
 .ongoing {
@@ -11,18 +15,14 @@
     margin: 96px 256px;
     /* border: 2px solid; */
 }
-
 .ongoing p {
     font-size: 16px;
 }
 
 /* ------  Stlying for research.html ------ */
-.research {
-    margin: 96px 256px;
-    /* border: 2px solid; */
-}
+
 .researchbox {
-    margin: 32px 0px;
+    margin: 0px 64px 32px 64px;
     padding: 32px;
     border: 1px solid;
     border-radius: 32px;
@@ -36,8 +36,25 @@
     line-height: 1.5;
 }
 
-/* ------  Stlying for teaching.html ------ */
+/* ------  Stlying for papers.html ------ */
+.paperbox1 {
+    margin: 0px 64px;
+    border: 1px solid;
+    padding: 16px 32px;
+}
+
+.paperbox2 {
+    margin: 32px 64px;
+    border: 1px solid;
+    padding: 16px 32px;
+}
+
+
 
 /* ------  Stlying for cvitae.html ------ */
+
+/* ------  Stlying for group.html ------ */
+
+/* ------  Stlying for teaching.html ------ */ 
 
 /* ------  Stlying for news.html ------ */
